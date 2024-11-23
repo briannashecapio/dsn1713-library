@@ -1,0 +1,17 @@
+@media (min-width: 992px) {
+    .navbar-expand-lg .navbar-collapse {
+        justify-content: space-between;
+    }
+}
+
+.banner-wrapper {
+    align-items: center;
+    background-image: url("../images/mountains.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    height: 600px;
+    justify-content: center;
+}
